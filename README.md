@@ -1,6 +1,6 @@
 # TestCoreML
 
-An object recognition demo using the coreML framework.
+A camera object recognition demo using the CoreML & AVCam framework.
 
 Required XCode 9 & iOS 11.
 
